@@ -1,0 +1,2 @@
+# VOK
+BASIC START
